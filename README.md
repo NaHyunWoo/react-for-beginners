@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#EFFECTS
+
+코드가 딱 한번만 실행될 수 있도록 보호해준다.
+EFFECTS에 설정한 action에 따라 설정한 action을 실행할때만 동작하게끔 설정이가능하다.
